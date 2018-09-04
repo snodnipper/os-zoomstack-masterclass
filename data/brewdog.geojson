@@ -1,0 +1,485 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Aberdeen"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.0978330, 57.1494770
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Angel"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1014557, 51.5367656
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Birmingham"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.9014063, 52.4770332
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Brighton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1353262, 50.8251239
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Bristol"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.5925245, 51.4535796
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Camden"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1409230, 51.5383435
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cardiff"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.1790472, 51.4786381
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Castlegate"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.0944948, 57.1475762
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Clapham Junction"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1629637, 51.4608426
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Clerkenwell"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1037717, 51.5223905
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "DogHouse Merchant City"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2479974, 55.8593709
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "DogTap & DogWalk Brewery Tour"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.0483357, 57.3716092
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Dundee"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.9696602, 56.4633787
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Edinburgh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.1893704, 55.9483998
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Glasgow"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.2921124, 55.8682678
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Leeds"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5404516, 53.7954884
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Leicester"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.1349780, 52.6335118
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Liverpool"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.9771761, 53.4018334
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Lothian Road Edinburgh"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.2072564, 55.9475844
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Manchester"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.2472261, 53.4780023
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Milton Keynes"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.7630010, 52.0386136
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Newcastle"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.6097310, 54.9704521
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "North Street Leeds"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.5367348, 53.8007681
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Norwich"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      1.2977951, 52.6301580
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Nottingham"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.1436979, 52.9541103
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Overworks Tap Room"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.0538933370788754, 57.37038278887657
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Oxford"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.2372205, 51.7480816
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Reading"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.9747502, 51.4535168
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Sheffield"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.4771068, 53.3795623
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shepherd's Bush"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.2239560, 51.5028620
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Seven Dials "
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1287508, 51.5133818
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Shoreditch"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0726124, 51.5245866
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Soho"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.1372348, 51.5150931
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Southampton"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.4055583, 50.9132688
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Stirling"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.9391442, 56.1192118
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Outpost Tower Hill"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -0.0814359, 51.5101291
+    ]
+  }
+}
+,
+{
+  "type": "Feature",
+  "properties": {
+    "name": "York "
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.0903629, 53.9565499
+    ]
+  }
+}
+  ]
+  }
