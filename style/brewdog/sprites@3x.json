@@ -1,0 +1,65 @@
+{
+  "Airport": {
+    "height": 63,
+    "pixelRatio": 3,
+    "width": 63,
+    "x": 0,
+    "y": 132
+  },
+  "LRTS": {
+    "height": 45,
+    "pixelRatio": 3,
+    "width": 46,
+    "x": 366,
+    "y": 195
+  },
+  "LRTS-UG": {
+    "height": 47,
+    "pixelRatio": 3,
+    "width": 103,
+    "x": 63,
+    "y": 132
+  },
+  "RS": {
+    "height": 46,
+    "pixelRatio": 3,
+    "width": 72,
+    "x": 121,
+    "y": 195
+  },
+  "RS-LRTS": {
+    "height": 47,
+    "pixelRatio": 3,
+    "width": 121,
+    "x": 0,
+    "y": 195
+  },
+  "RS-UG": {
+    "height": 46,
+    "pixelRatio": 3,
+    "width": 119,
+    "x": 193,
+    "y": 195
+  },
+  "UG": {
+    "height": 46,
+    "pixelRatio": 3,
+    "width": 54,
+    "x": 312,
+    "y": 195
+  },
+  "brewdog": {
+    "height": 126,
+    "pixelRatio": 3,
+    "width": 126,
+    "x": 132,
+    "y": 0
+  },
+  "geovation": {
+    "height": 132,
+    "pixelRatio": 3,
+    "width": 132,
+    "x": 0,
+    "y": 0
+  }
+}
